@@ -104,6 +104,12 @@
     to { background-color: #FF0; }
 }
 
+.header {
+
+  text-align: center;
+  font-size: 20px;
+}
+
 .led-green {
   margin: 0 auto;
   width: 24px;
